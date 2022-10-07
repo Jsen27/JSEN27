@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#808080&height=200&section=header&text=Sehoon&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=Sehoon&fontSize=90" />
 
 <!--
 **Jsen27/JSEN27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
