@@ -3,8 +3,9 @@
   
   <h1>👋 Hi, I'm Sehoon Jung</h1>
   I'm studying to be a game client developer.<br>
-  If you're interested in me, watch my Github!<br><br>
-  
+  If you're interested in me, watch my Github!<br>
+  My code review is usually in Notion.<br><br>
+
  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl96xavh201310gjldmzwying/stats?cursusId=21&coalitionId=86" alt="sehjung's 42 stats" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=Jsen27&theme=dracula&show_icons=true" />
 
