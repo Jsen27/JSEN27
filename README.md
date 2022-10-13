@@ -1,11 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=Sehoon&fontSize=90" />
-</div>
- 🛠Tech Stack
-
-
-
-<div align="center">
+ <br> <!-- 개행  -->
+  🛠Tech Stack
+  <br>
+  
   <img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
