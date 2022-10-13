@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=Sehoon&fontSize=90" />
+ <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl96xavh201310gjldmzwying/stats?cursusId=21&coalitionId=86" alt="sehjung's 42 stats" /></a>
+
+ 
  <br> <!-- 개행  -->
   🛠Tech Stack
   <br>
