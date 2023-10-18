@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Sehoon's%20Github&fontSize=50" />
   
   <h1>👋 Hi, I'm Sehoon Jung</h1>
   I'm studying to be a C++ developer.<br>
