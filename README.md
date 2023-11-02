@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>👋 Hi, I'm Sehoon Jung</h1>
-  I'm studying to be a C++ developer.<br>
+  Interested in C++.<br>
   If you're interested in me, watch my Github!<br>
   My code review is usually in repository.<br><br>
 
