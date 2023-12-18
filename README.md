@@ -7,7 +7,9 @@
   My code review is usually in repository.<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jsen27&theme=dracula&show_icons=true" />
-
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sehjung?1337Badge=off&42Network=off&UM6P=off" alt="sehjung's 42 stats" /></a>
+</div>
  
  <br> <!-- 개행  -->
   🛠Tech Stack
