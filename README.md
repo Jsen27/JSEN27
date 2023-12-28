@@ -7,10 +7,11 @@
   My code review is usually in repository.<br><br>
 
 
-<div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sehjung?1337Badge=off&42Network=off&UM6P=off" alt="sehjung's 42 stats" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsen27&theme=dracula&show_icons=true" />
-</div>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sehjung?1337Badge=off&42Network=off&UM6P=off" alt="sehjung's 42 stats" /></a><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jsen27&theme=dracula&show_icons=true" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehoon2)](https://solved.ac/sehoon2/)
+
  
  <br> <!-- 개행  -->
   🛠Tech Stack
