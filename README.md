@@ -1,9 +1,8 @@
 <div align="center">
   
   <h1>👋 Hi, I'm Sehoon Jung</h1>
-  Interested in C++.<br>
-  I am a member of 42 Seoul.<br>
-  If you're interested in me, watch my Github!<br>
+  I'm Computer vision algorithm, Software developer and member of 42 Seoul<br>
+  If you're interested in me, watch my Github<br>
   My code review is usually in repository.<br><br>
 
 
@@ -13,10 +12,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehoon2)](https://solved.ac/sehoon2/)
 
  
- <br> <!-- 개행  -->
+ <br>
   🛠Tech Stack
   <br>
-  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
